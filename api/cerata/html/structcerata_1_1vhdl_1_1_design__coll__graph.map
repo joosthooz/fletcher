@@ -1,0 +1,6 @@
+<map id="cerata::vhdl::Design" name="cerata::vhdl::Design">
+<area shape="rect" id="node1" title="A VHDL design that can generate code for a single file." alt="" coords="5,247,144,273"/>
+<area shape="rect" id="node2" href="$classcerata_1_1_component.html" title="A Component graph." alt="" coords="8,157,141,184"/>
+<area shape="rect" id="node3" href="$classcerata_1_1_graph.html" title="A graph representing a hardware structure." alt="" coords="24,81,125,108"/>
+<area shape="rect" id="node4" href="$structcerata_1_1_named.html" title="Convenience structure for anything that is named. Names are case&#45;sensitive." alt="" coords="21,5,129,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cerata::OutputSpec" name="cerata::OutputSpec">
+<area shape="rect" id="node1" title="Structure to specify output properties per graph." alt="" coords="5,247,140,273"/>
+<area shape="rect" id="node2" href="$classcerata_1_1_component.html" title="A Component graph." alt="" coords="6,157,139,184"/>
+<area shape="rect" id="node3" href="$classcerata_1_1_graph.html" title="A graph representing a hardware structure." alt="" coords="22,81,123,108"/>
+<area shape="rect" id="node4" href="$structcerata_1_1_named.html" title="Convenience structure for anything that is named. Names are case&#45;sensitive." alt="" coords="19,5,127,32"/>
+</map>

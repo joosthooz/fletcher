@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,172,235"/>
+<area shape="rect" id="node2" href="$classcerata_1_1_field.html" title="A Record field." alt="" coords="245,259,340,285"/>
+<area shape="rect" id="node3" href="$classcerata_1_1_node.html" title="A node." alt="" coords="431,309,529,336"/>
+<area shape="rect" id="node11" href="$classcerata_1_1_type.html" title="A Type." alt="" coords="245,157,340,184"/>
+<area shape="rect" id="node4" href="$structcerata_1_1_multi_output_node.html" title="A no&#45;input, multiple&#45;outputs node." alt="" coords="595,309,759,336"/>
+<area shape="rect" id="node5" href="$classcerata_1_1_expression.html" title="A node representing a binary tree of other nodes." alt="" coords="813,360,943,387"/>
+<area shape="rect" id="node6" href="$classcerata_1_1_literal.html" title="A Literal Node." alt="" coords="827,259,929,285"/>
+<area shape="rect" id="node7" href="$structcerata_1_1_normal_node.html" title="A single&#45;input, multiple&#45;outputs node." alt="" coords="809,309,947,336"/>
+<area shape="rect" id="node8" href="$classcerata_1_1_parameter.html" title="A Parameter node." alt="" coords="997,309,1124,336"/>
+<area shape="rect" id="node9" href="$classcerata_1_1_port.html" title="A port is a terminator node on a graph." alt="" coords="1015,411,1106,437"/>
+<area shape="rect" id="node10" href="$classcerata_1_1_signal.html" title="A Signal Node." alt="" coords="1009,360,1112,387"/>
+<area shape="rect" id="node12" href="$structcerata_1_1_bit.html" title="A bit type." alt="" coords="439,259,521,285"/>
+<area shape="rect" id="node13" href="$structcerata_1_1_boolean.html" title="Boolean type." alt="" coords="423,5,537,32"/>
+<area shape="rect" id="node14" href="$structcerata_1_1_integer.html" title="Integer type." alt="" coords="427,56,533,83"/>
+<area shape="rect" id="node15" href="$classcerata_1_1_record.html" title="A Record type containing zero or more fields." alt="" coords="426,107,534,133"/>
+<area shape="rect" id="node17" href="$structcerata_1_1_string.html" title="String type." alt="" coords="430,157,530,184"/>
+<area shape="rect" id="node18" href="$classcerata_1_1_vector.html" title="Vector type." alt="" coords="428,208,532,235"/>
+<area shape="rect" id="node16" href="$classcerata_1_1_stream.html" title="A Stream type." alt="" coords="623,107,731,133"/>
+<area shape="rect" id="node19" href="$structcerata_1_1_named.html" title="Convenience structure for anything that is named. Names are case&#45;sensitive." alt="" coords="35,360,143,387"/>
+<area shape="rect" id="node20" href="$structcerata_1_1_clock_domain.html" title="A clock domain." alt="" coords="220,411,365,437"/>
+<area shape="rect" id="node21" href="$classcerata_1_1_edge.html" title="A directed edge between two nodes." alt="" coords="245,461,341,488"/>
+<area shape="rect" id="node22" href="$classcerata_1_1_graph.html" title="A graph representing a hardware structure." alt="" coords="242,512,343,539"/>
+<area shape="rect" id="node25" href="$classcerata_1_1_object.html" title="A Cerata Object on a graph." alt="" coords="241,360,345,387"/>
+<area shape="rect" id="node29" href="$classcerata_1_1_type_mapper.html" title="A structure to dynamically define type mappings between flattened types." alt="" coords="223,309,362,336"/>
+<area shape="rect" id="node23" href="$classcerata_1_1_component.html" title="A Component graph." alt="" coords="413,512,547,539"/>
+<area shape="rect" id="node24" href="$classcerata_1_1_instance.html" title="An instance." alt="" coords="422,411,538,437"/>
+<area shape="rect" id="node26" href="$classcerata_1_1_node_array.html" title="An array of nodes." alt="" coords="416,360,544,387"/>
+<area shape="rect" id="node27" href="$classcerata_1_1_port_array.html" title="An array of port nodes." alt="" coords="616,411,737,437"/>
+<area shape="rect" id="node28" href="$classcerata_1_1_signal_array.html" title="An array of signal nodes." alt="" coords="610,360,743,387"/>
+<area shape="rect" id="node30" href="$classcerata_1_1_synchronous.html" title="Class to mark nodes with information for synchronous designs, e.g. clock domain." alt="" coords="807,411,949,437"/>
+<area shape="rect" id="node31" href="$classcerata_1_1_term.html" title="A terminator structure to enable terminator sanity checks." alt="" coords="432,461,528,488"/>
+</map>
